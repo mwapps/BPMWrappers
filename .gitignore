@@ -17,3 +17,4 @@ myTraces.log.*
 # Not build files
 DroolsDecisiontablesWrapper/target/
 
+.DS_Store
